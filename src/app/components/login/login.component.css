@@ -1,0 +1,26 @@
+/*Created By : Sangwin Gawande (http://sangw.in)*/
+
+.box{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 400px;
+	padding: 40px;
+	background: saddlebrown;
+}
+.box h2{
+	margine: 0 0 30px;
+	padding: 0;
+	color: #00ffff;
+	text-align: center;
+}
+.box .inputbox input{
+	width: 100%;
+	padding: 10px;
+	font-size: 10px;
+	color: #3a3a3a;
+	border: solid;
+	outline: none;
+	background: transparent;
+}
